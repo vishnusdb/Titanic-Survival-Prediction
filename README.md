@@ -22,7 +22,7 @@ This project predicts passenger survival on the Titanic using machine learning.
 5. Submission File Generation
 
 ## Results
-Achieved ~XX% validation accuracy using Random Forest.
+Achieved ~81% validation accuracy using Random Forest.
 
 ## How to Run
 1. Open the notebook in Google Colab.
